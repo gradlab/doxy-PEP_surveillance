@@ -1,0 +1,1046 @@
+value,method,pooling_level,time_unit,resistance_threshold,dpval,sampling_intensity,time_in_days,true_value,delay_in_days,method_name
+42,gisp,monthly,month,0.11,10,25,1290,0.0,1290.0,Culture
+11,naats,monthly,month,0.11,10,0.05,360,0.0,360.0,NAAT remnants
+9,naats,monthly,month,0.11,10,0.1,300,0.0,300.0,NAAT remnants
+5,naats,monthly,month,0.11,10,0.2,180,0.0,180.0,NAAT remnants
+3,naats,monthly,month,0.11,10,0.4,120,0.0,120.0,NAAT remnants
+2,naats,monthly,month,0.11,10,0.8,90,0.0,90.0,NAAT remnants
+81,gisp,monthly,month,0.11,10,5,2460,0.0,2460.0,Culture
+74,gisp,monthly,month,0.11,10,10,2250,0.0,2250.0,Culture
+56,gisp,monthly,month,0.11,10,20,1710,0.0,1710.0,Culture
+39,gisp,monthly,month,0.11,10,40,1200,0.0,1200.0,Culture
+25,gisp,monthly,month,0.11,10,80,780,0.0,780.0,Culture
+54,gisp,monthly,month,0.12,10,25,1650,94.0,1556.0,Culture
+18,naats,monthly,month,0.12,10,0.05,570,94.0,476.0,NAAT remnants
+13,naats,monthly,month,0.12,10,0.1,420,94.0,326.0,NAAT remnants
+11,naats,monthly,month,0.12,10,0.2,360,94.0,266.0,NAAT remnants
+8,naats,monthly,month,0.12,10,0.4,270,94.0,176.0,NAAT remnants
+7,naats,monthly,month,0.12,10,0.8,240,94.0,146.0,NAAT remnants
+81,gisp,monthly,month,0.12,10,5,2460,94.0,2366.0,Culture
+74,gisp,monthly,month,0.12,10,10,2250,94.0,2156.0,Culture
+56,gisp,monthly,month,0.12,10,20,1710,94.0,1616.0,Culture
+39,gisp,monthly,month,0.12,10,40,1200,94.0,1106.0,Culture
+31,gisp,monthly,month,0.12,10,80,960,94.0,866.0,Culture
+54,gisp,monthly,month,0.13,10,25,1650,232.0,1418.0,Culture
+23,naats,monthly,month,0.13,10,0.05,720,232.0,488.0,NAAT remnants
+18,naats,monthly,month,0.13,10,0.1,570,232.0,338.0,NAAT remnants
+15,naats,monthly,month,0.13,10,0.2,480,232.0,248.0,NAAT remnants
+13,naats,monthly,month,0.13,10,0.4,420,232.0,188.0,NAAT remnants
+12,naats,monthly,month,0.13,10,0.8,390,232.0,158.0,NAAT remnants
+81,gisp,monthly,month,0.13,10,5,2460,232.0,2228.0,Culture
+74,gisp,monthly,month,0.13,10,10,2250,232.0,2018.0,Culture
+56,gisp,monthly,month,0.13,10,20,1710,232.0,1478.0,Culture
+46,gisp,monthly,month,0.13,10,40,1410,232.0,1178.0,Culture
+35,gisp,monthly,month,0.13,10,80,1080,232.0,848.0,Culture
+54,gisp,monthly,month,0.14,10,25,1650,359.0,1291.0,Culture
+25,naats,monthly,month,0.14,10,0.05,780,359.0,421.0,NAAT remnants
+22,naats,monthly,month,0.14,10,0.1,690,359.0,331.0,NAAT remnants
+19,naats,monthly,month,0.14,10,0.2,600,359.0,241.0,NAAT remnants
+18,naats,monthly,month,0.14,10,0.4,570,359.0,211.0,NAAT remnants
+16,naats,monthly,month,0.14,10,0.8,510,359.0,151.0,NAAT remnants
+81,gisp,monthly,month,0.14,10,5,2460,359.0,2101.0,Culture
+74,gisp,monthly,month,0.14,10,10,2250,359.0,1891.0,Culture
+56,gisp,monthly,month,0.14,10,20,1710,359.0,1351.0,Culture
+46,gisp,monthly,month,0.14,10,40,1410,359.0,1051.0,Culture
+39,gisp,monthly,month,0.14,10,80,1200,359.0,841.0,Culture
+54,gisp,monthly,month,0.15,10,25,1650,478.0,1172.0,Culture
+30,naats,monthly,month,0.15,10,0.05,930,478.0,452.0,NAAT remnants
+26,naats,monthly,month,0.15,10,0.1,810,478.0,332.0,NAAT remnants
+24,naats,monthly,month,0.15,10,0.2,750,478.0,272.0,NAAT remnants
+21,naats,monthly,month,0.15,10,0.4,660,478.0,182.0,NAAT remnants
+20,naats,monthly,month,0.15,10,0.8,630,478.0,152.0,NAAT remnants
+81,gisp,monthly,month,0.15,10,5,2460,478.0,1982.0,Culture
+74,gisp,monthly,month,0.15,10,10,2250,478.0,1772.0,Culture
+56,gisp,monthly,month,0.15,10,20,1710,478.0,1232.0,Culture
+46,gisp,monthly,month,0.15,10,40,1410,478.0,932.0,Culture
+39,gisp,monthly,month,0.15,10,80,1200,478.0,722.0,Culture
+54,gisp,monthly,month,0.16,10,25,1650,590.0,1060.0,Culture
+33,naats,monthly,month,0.16,10,0.05,1020,590.0,430.0,NAAT remnants
+29,naats,monthly,month,0.16,10,0.1,900,590.0,310.0,NAAT remnants
+26,naats,monthly,month,0.16,10,0.2,810,590.0,220.0,NAAT remnants
+25,naats,monthly,month,0.16,10,0.4,780,590.0,190.0,NAAT remnants
+23,naats,monthly,month,0.16,10,0.8,720,590.0,130.0,NAAT remnants
+81,gisp,monthly,month,0.16,10,5,2460,590.0,1870.0,Culture
+74,gisp,monthly,month,0.16,10,10,2250,590.0,1660.0,Culture
+67,gisp,monthly,month,0.16,10,20,2040,590.0,1450.0,Culture
+54,gisp,monthly,month,0.16,10,40,1650,590.0,1060.0,Culture
+44,gisp,monthly,month,0.16,10,80,1350,590.0,760.0,Culture
+66,gisp,monthly,month,0.17,10,25,2010,697.0,1313.0,Culture
+36,naats,monthly,month,0.17,10,0.05,1110,697.0,413.0,NAAT remnants
+33,naats,monthly,month,0.17,10,0.1,1020,697.0,323.0,NAAT remnants
+30,naats,monthly,month,0.17,10,0.2,930,697.0,233.0,NAAT remnants
+28,naats,monthly,month,0.17,10,0.4,870,697.0,173.0,NAAT remnants
+27,naats,monthly,month,0.17,10,0.8,840,697.0,143.0,NAAT remnants
+81,gisp,monthly,month,0.17,10,5,2460,697.0,1763.0,Culture
+74,gisp,monthly,month,0.17,10,10,2250,697.0,1553.0,Culture
+67,gisp,monthly,month,0.17,10,20,2040,697.0,1343.0,Culture
+54,gisp,monthly,month,0.17,10,40,1650,697.0,953.0,Culture
+46,gisp,monthly,month,0.17,10,80,1410,697.0,713.0,Culture
+66,gisp,monthly,month,0.18,10,25,2010,798.0,1212.0,Culture
+40,naats,monthly,month,0.18,10,0.05,1230,798.0,432.0,NAAT remnants
+36,naats,monthly,month,0.18,10,0.1,1110,798.0,312.0,NAAT remnants
+33,naats,monthly,month,0.18,10,0.2,1020,798.0,222.0,NAAT remnants
+31,naats,monthly,month,0.18,10,0.4,960,798.0,162.0,NAAT remnants
+30,naats,monthly,month,0.18,10,0.8,930,798.0,132.0,NAAT remnants
+81,gisp,monthly,month,0.18,10,5,2460,798.0,1662.0,Culture
+74,gisp,monthly,month,0.18,10,10,2250,798.0,1452.0,Culture
+67,gisp,monthly,month,0.18,10,20,2040,798.0,1242.0,Culture
+58,gisp,monthly,month,0.18,10,40,1770,798.0,972.0,Culture
+50,gisp,monthly,month,0.18,10,80,1530,798.0,732.0,Culture
+66,gisp,monthly,month,0.19,10,25,2010,894.0,1116.0,Culture
+43,naats,monthly,month,0.19,10,0.05,1320,894.0,426.0,NAAT remnants
+39,naats,monthly,month,0.19,10,0.1,1200,894.0,306.0,NAAT remnants
+37,naats,monthly,month,0.19,10,0.2,1140,894.0,246.0,NAAT remnants
+35,naats,monthly,month,0.19,10,0.4,1080,894.0,186.0,NAAT remnants
+34,naats,monthly,month,0.19,10,0.8,1050,894.0,156.0,NAAT remnants
+81,gisp,monthly,month,0.19,10,5,2460,894.0,1566.0,Culture
+74,gisp,monthly,month,0.19,10,10,2250,894.0,1356.0,Culture
+67,gisp,monthly,month,0.19,10,20,2040,894.0,1146.0,Culture
+58,gisp,monthly,month,0.19,10,40,1770,894.0,876.0,Culture
+53,gisp,monthly,month,0.19,10,80,1620,894.0,726.0,Culture
+66,gisp,monthly,month,0.2,10,25,2010,986.0,1024.0,Culture
+45,naats,monthly,month,0.2,10,0.05,1380,986.0,394.0,NAAT remnants
+42,naats,monthly,month,0.2,10,0.1,1290,986.0,304.0,NAAT remnants
+39,naats,monthly,month,0.2,10,0.2,1200,986.0,214.0,NAAT remnants
+38,naats,monthly,month,0.2,10,0.4,1170,986.0,184.0,NAAT remnants
+36,naats,monthly,month,0.2,10,0.8,1110,986.0,124.0,NAAT remnants
+81,gisp,monthly,month,0.2,10,5,2460,986.0,1474.0,Culture
+75,gisp,monthly,month,0.2,10,10,2280,986.0,1294.0,Culture
+68,gisp,monthly,month,0.2,10,20,2070,986.0,1084.0,Culture
+58,gisp,monthly,month,0.2,10,40,1770,986.0,784.0,Culture
+53,gisp,monthly,month,0.2,10,80,1620,986.0,634.0,Culture
+73,gisp,monthly,month,0.21,10,25,2220,1075.0,1145.0,Culture
+47,naats,monthly,month,0.21,10,0.05,1440,1075.0,365.0,NAAT remnants
+44,naats,monthly,month,0.21,10,0.1,1350,1075.0,275.0,NAAT remnants
+42,naats,monthly,month,0.21,10,0.2,1290,1075.0,215.0,NAAT remnants
+40,naats,monthly,month,0.21,10,0.4,1230,1075.0,155.0,NAAT remnants
+39,naats,monthly,month,0.21,10,0.8,1200,1075.0,125.0,NAAT remnants
+109,gisp,monthly,month,0.21,10,5,3300,1075.0,2225.0,Culture
+87,gisp,monthly,month,0.21,10,10,2640,1075.0,1565.0,Culture
+75,gisp,monthly,month,0.21,10,20,2280,1075.0,1205.0,Culture
+64,gisp,monthly,month,0.21,10,40,1950,1075.0,875.0,Culture
+56,gisp,monthly,month,0.21,10,80,1710,1075.0,635.0,Culture
+73,gisp,monthly,month,0.22,10,25,2220,1161.0,1059.0,Culture
+51,naats,monthly,month,0.22,10,0.05,1560,1161.0,399.0,NAAT remnants
+47,naats,monthly,month,0.22,10,0.1,1440,1161.0,279.0,NAAT remnants
+45,naats,monthly,month,0.22,10,0.2,1380,1161.0,219.0,NAAT remnants
+43,naats,monthly,month,0.22,10,0.4,1320,1161.0,159.0,NAAT remnants
+42,naats,monthly,month,0.22,10,0.8,1290,1161.0,129.0,NAAT remnants
+109,gisp,monthly,month,0.22,10,5,3300,1161.0,2139.0,Culture
+87,gisp,monthly,month,0.22,10,10,2640,1161.0,1479.0,Culture
+75,gisp,monthly,month,0.22,10,20,2280,1161.0,1119.0,Culture
+64,gisp,monthly,month,0.22,10,40,1950,1161.0,789.0,Culture
+59,gisp,monthly,month,0.22,10,80,1800,1161.0,639.0,Culture
+73,gisp,monthly,month,0.23,10,25,2220,1243.0,977.0,Culture
+53,naats,monthly,month,0.23,10,0.05,1620,1243.0,377.0,NAAT remnants
+49,naats,monthly,month,0.23,10,0.1,1500,1243.0,257.0,NAAT remnants
+47,naats,monthly,month,0.23,10,0.2,1440,1243.0,197.0,NAAT remnants
+46,naats,monthly,month,0.23,10,0.4,1410,1243.0,167.0,NAAT remnants
+45,naats,monthly,month,0.23,10,0.8,1380,1243.0,137.0,NAAT remnants
+109,gisp,monthly,month,0.23,10,5,3300,1243.0,2057.0,Culture
+87,gisp,monthly,month,0.23,10,10,2640,1243.0,1397.0,Culture
+75,gisp,monthly,month,0.23,10,20,2280,1243.0,1037.0,Culture
+70,gisp,monthly,month,0.23,10,40,2130,1243.0,887.0,Culture
+61,gisp,monthly,month,0.23,10,80,1860,1243.0,617.0,Culture
+73,gisp,monthly,month,0.24,10,25,2220,1323.0,897.0,Culture
+55,naats,monthly,month,0.24,10,0.05,1680,1323.0,357.0,NAAT remnants
+52,naats,monthly,month,0.24,10,0.1,1590,1323.0,267.0,NAAT remnants
+50,naats,monthly,month,0.24,10,0.2,1530,1323.0,207.0,NAAT remnants
+48,naats,monthly,month,0.24,10,0.4,1470,1323.0,147.0,NAAT remnants
+47,naats,monthly,month,0.24,10,0.8,1440,1323.0,117.0,NAAT remnants
+109,gisp,monthly,month,0.24,10,5,3300,1323.0,1977.0,Culture
+87,gisp,monthly,month,0.24,10,10,2640,1323.0,1317.0,Culture
+75,gisp,monthly,month,0.24,10,20,2280,1323.0,957.0,Culture
+70,gisp,monthly,month,0.24,10,40,2130,1323.0,807.0,Culture
+64,gisp,monthly,month,0.24,10,80,1950,1323.0,627.0,Culture
+79,gisp,monthly,month,0.25,10,25,2400,1400.0,1000.0,Culture
+57,naats,monthly,month,0.25,10,0.05,1740,1400.0,340.0,NAAT remnants
+55,naats,monthly,month,0.25,10,0.1,1680,1400.0,280.0,NAAT remnants
+53,naats,monthly,month,0.25,10,0.2,1620,1400.0,220.0,NAAT remnants
+51,naats,monthly,month,0.25,10,0.4,1560,1400.0,160.0,NAAT remnants
+50,naats,monthly,month,0.25,10,0.8,1530,1400.0,130.0,NAAT remnants
+109,gisp,monthly,month,0.25,10,5,3300,1400.0,1900.0,Culture
+87,gisp,monthly,month,0.25,10,10,2640,1400.0,1240.0,Culture
+75,gisp,monthly,month,0.25,10,20,2280,1400.0,880.0,Culture
+70,gisp,monthly,month,0.25,10,40,2130,1400.0,730.0,Culture
+64,gisp,monthly,month,0.25,10,80,1950,1400.0,550.0,Culture
+79,gisp,monthly,month,0.26,10,25,2400,1475.0,925.0,Culture
+60,naats,monthly,month,0.26,10,0.05,1830,1475.0,355.0,NAAT remnants
+57,naats,monthly,month,0.26,10,0.1,1740,1475.0,265.0,NAAT remnants
+55,naats,monthly,month,0.26,10,0.2,1680,1475.0,205.0,NAAT remnants
+53,naats,monthly,month,0.26,10,0.4,1620,1475.0,145.0,NAAT remnants
+52,naats,monthly,month,0.26,10,0.8,1590,1475.0,115.0,NAAT remnants
+109,gisp,monthly,month,0.26,10,5,3300,1475.0,1825.0,Culture
+87,gisp,monthly,month,0.26,10,10,2640,1475.0,1165.0,Culture
+82,gisp,monthly,month,0.26,10,20,2490,1475.0,1015.0,Culture
+74,gisp,monthly,month,0.26,10,40,2250,1475.0,775.0,Culture
+67,gisp,monthly,month,0.26,10,80,2040,1475.0,565.0,Culture
+79,gisp,monthly,month,0.27,10,25,2400,1547.0,853.0,Culture
+62,naats,monthly,month,0.27,10,0.05,1890,1547.0,343.0,NAAT remnants
+59,naats,monthly,month,0.27,10,0.1,1800,1547.0,253.0,NAAT remnants
+57,naats,monthly,month,0.27,10,0.2,1740,1547.0,193.0,NAAT remnants
+56,naats,monthly,month,0.27,10,0.4,1710,1547.0,163.0,NAAT remnants
+54,naats,monthly,month,0.27,10,0.8,1650,1547.0,103.0,NAAT remnants
+109,gisp,monthly,month,0.27,10,5,3300,1547.0,1753.0,Culture
+87,gisp,monthly,month,0.27,10,10,2640,1547.0,1093.0,Culture
+82,gisp,monthly,month,0.27,10,20,2490,1547.0,943.0,Culture
+74,gisp,monthly,month,0.27,10,40,2250,1547.0,703.0,Culture
+69,gisp,monthly,month,0.27,10,80,2100,1547.0,553.0,Culture
+79,gisp,monthly,month,0.28,10,25,2400,1618.0,782.0,Culture
+63,naats,monthly,month,0.28,10,0.05,1920,1618.0,302.0,NAAT remnants
+61,naats,monthly,month,0.28,10,0.1,1860,1618.0,242.0,NAAT remnants
+59,naats,monthly,month,0.28,10,0.2,1800,1618.0,182.0,NAAT remnants
+57,naats,monthly,month,0.28,10,0.4,1740,1618.0,122.0,NAAT remnants
+57,naats,monthly,month,0.28,10,0.8,1740,1618.0,122.0,NAAT remnants
+109,gisp,monthly,month,0.28,10,5,3300,1618.0,1682.0,Culture
+87,gisp,monthly,month,0.28,10,10,2640,1618.0,1022.0,Culture
+82,gisp,monthly,month,0.28,10,20,2490,1618.0,872.0,Culture
+77,gisp,monthly,month,0.28,10,40,2340,1618.0,722.0,Culture
+71,gisp,monthly,month,0.28,10,80,2160,1618.0,542.0,Culture
+83,gisp,monthly,month,0.29,10,25,2520,1686.0,834.0,Culture
+65,naats,monthly,month,0.29,10,0.05,1980,1686.0,294.0,NAAT remnants
+63,naats,monthly,month,0.29,10,0.1,1920,1686.0,234.0,NAAT remnants
+61,naats,monthly,month,0.29,10,0.2,1860,1686.0,174.0,NAAT remnants
+60,naats,monthly,month,0.29,10,0.4,1830,1686.0,144.0,NAAT remnants
+59,naats,monthly,month,0.29,10,0.8,1800,1686.0,114.0,NAAT remnants
+109,gisp,monthly,month,0.29,10,5,3300,1686.0,1614.0,Culture
+87,gisp,monthly,month,0.29,10,10,2640,1686.0,954.0,Culture
+82,gisp,monthly,month,0.29,10,20,2490,1686.0,804.0,Culture
+77,gisp,monthly,month,0.29,10,40,2340,1686.0,654.0,Culture
+73,gisp,monthly,month,0.29,10,80,2220,1686.0,534.0,Culture
+10,gisp,monthly,month,0.11,30,25,330,0.0,330.0,Culture
+2,naats,monthly,month,0.11,30,0.05,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.11,30,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.11,30,0.2,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.11,30,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,30,0.8,30,0.0,30.0,NAAT remnants
+21,gisp,monthly,month,0.11,30,5,660,0.0,660.0,Culture
+20,gisp,monthly,month,0.11,30,10,630,0.0,630.0,Culture
+12,gisp,monthly,month,0.11,30,20,390,0.0,390.0,Culture
+8,gisp,monthly,month,0.11,30,40,270,0.0,270.0,Culture
+5,gisp,monthly,month,0.11,30,80,180,0.0,180.0,Culture
+13,gisp,monthly,month,0.12,30,25,420,0.0,420.0,Culture
+3,naats,monthly,month,0.12,30,0.05,120,0.0,120.0,NAAT remnants
+2,naats,monthly,month,0.12,30,0.1,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.12,30,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.12,30,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.12,30,0.8,60,0.0,60.0,NAAT remnants
+21,gisp,monthly,month,0.12,30,5,660,0.0,660.0,Culture
+20,gisp,monthly,month,0.12,30,10,630,0.0,630.0,Culture
+12,gisp,monthly,month,0.12,30,20,390,0.0,390.0,Culture
+8,gisp,monthly,month,0.12,30,40,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.12,30,80,240,0.0,240.0,Culture
+13,gisp,monthly,month,0.13,30,25,420,0.0,420.0,Culture
+4,naats,monthly,month,0.13,30,0.05,150,0.0,150.0,NAAT remnants
+3,naats,monthly,month,0.13,30,0.1,120,0.0,120.0,NAAT remnants
+3,naats,monthly,month,0.13,30,0.2,120,0.0,120.0,NAAT remnants
+2,naats,monthly,month,0.13,30,0.4,90,0.0,90.0,NAAT remnants
+2,naats,monthly,month,0.13,30,0.8,90,0.0,90.0,NAAT remnants
+21,gisp,monthly,month,0.13,30,5,660,0.0,660.0,Culture
+20,gisp,monthly,month,0.13,30,10,630,0.0,630.0,Culture
+12,gisp,monthly,month,0.13,30,20,390,0.0,390.0,Culture
+10,gisp,monthly,month,0.13,30,40,330,0.0,330.0,Culture
+7,gisp,monthly,month,0.13,30,80,240,0.0,240.0,Culture
+13,gisp,monthly,month,0.14,30,25,420,35.0,385.0,Culture
+5,naats,monthly,month,0.14,30,0.05,180,35.0,145.0,NAAT remnants
+5,naats,monthly,month,0.14,30,0.1,180,35.0,145.0,NAAT remnants
+4,naats,monthly,month,0.14,30,0.2,150,35.0,115.0,NAAT remnants
+3,naats,monthly,month,0.14,30,0.4,120,35.0,85.0,NAAT remnants
+3,naats,monthly,month,0.14,30,0.8,120,35.0,85.0,NAAT remnants
+21,gisp,monthly,month,0.14,30,5,660,35.0,625.0,Culture
+20,gisp,monthly,month,0.14,30,10,630,35.0,595.0,Culture
+12,gisp,monthly,month,0.14,30,20,390,35.0,355.0,Culture
+10,gisp,monthly,month,0.14,30,40,330,35.0,295.0,Culture
+8,gisp,monthly,month,0.14,30,80,270,35.0,235.0,Culture
+13,gisp,monthly,month,0.15,30,25,420,66.0,354.0,Culture
+6,naats,monthly,month,0.15,30,0.05,210,66.0,144.0,NAAT remnants
+5,naats,monthly,month,0.15,30,0.1,180,66.0,114.0,NAAT remnants
+4,naats,monthly,month,0.15,30,0.2,150,66.0,84.0,NAAT remnants
+4,naats,monthly,month,0.15,30,0.4,150,66.0,84.0,NAAT remnants
+4,naats,monthly,month,0.15,30,0.8,150,66.0,84.0,NAAT remnants
+21,gisp,monthly,month,0.15,30,5,660,66.0,594.0,Culture
+20,gisp,monthly,month,0.15,30,10,630,66.0,564.0,Culture
+12,gisp,monthly,month,0.15,30,20,390,66.0,324.0,Culture
+10,gisp,monthly,month,0.15,30,40,330,66.0,264.0,Culture
+9,gisp,monthly,month,0.15,30,80,300,66.0,234.0,Culture
+13,gisp,monthly,month,0.16,30,25,420,95.0,325.0,Culture
+8,naats,monthly,month,0.16,30,0.05,270,95.0,175.0,NAAT remnants
+6,naats,monthly,month,0.16,30,0.1,210,95.0,115.0,NAAT remnants
+6,naats,monthly,month,0.16,30,0.2,210,95.0,115.0,NAAT remnants
+5,naats,monthly,month,0.16,30,0.4,180,95.0,85.0,NAAT remnants
+5,naats,monthly,month,0.16,30,0.8,180,95.0,85.0,NAAT remnants
+21,gisp,monthly,month,0.16,30,5,660,95.0,565.0,Culture
+20,gisp,monthly,month,0.16,30,10,630,95.0,535.0,Culture
+16,gisp,monthly,month,0.16,30,20,510,95.0,415.0,Culture
+13,gisp,monthly,month,0.16,30,40,420,95.0,325.0,Culture
+10,gisp,monthly,month,0.16,30,80,330,95.0,235.0,Culture
+16,gisp,monthly,month,0.17,30,25,510,122.0,388.0,Culture
+8,naats,monthly,month,0.17,30,0.05,270,122.0,148.0,NAAT remnants
+7,naats,monthly,month,0.17,30,0.1,240,122.0,118.0,NAAT remnants
+6,naats,monthly,month,0.17,30,0.2,210,122.0,88.0,NAAT remnants
+6,naats,monthly,month,0.17,30,0.4,210,122.0,88.0,NAAT remnants
+6,naats,monthly,month,0.17,30,0.8,210,122.0,88.0,NAAT remnants
+21,gisp,monthly,month,0.17,30,5,660,122.0,538.0,Culture
+20,gisp,monthly,month,0.17,30,10,630,122.0,508.0,Culture
+16,gisp,monthly,month,0.17,30,20,510,122.0,388.0,Culture
+13,gisp,monthly,month,0.17,30,40,420,122.0,298.0,Culture
+11,gisp,monthly,month,0.17,30,80,360,122.0,238.0,Culture
+16,gisp,monthly,month,0.18,30,25,510,148.0,362.0,Culture
+9,naats,monthly,month,0.18,30,0.05,300,148.0,152.0,NAAT remnants
+8,naats,monthly,month,0.18,30,0.1,270,148.0,122.0,NAAT remnants
+7,naats,monthly,month,0.18,30,0.2,240,148.0,92.0,NAAT remnants
+7,naats,monthly,month,0.18,30,0.4,240,148.0,92.0,NAAT remnants
+6,naats,monthly,month,0.18,30,0.8,210,148.0,62.0,NAAT remnants
+21,gisp,monthly,month,0.18,30,5,660,148.0,512.0,Culture
+20,gisp,monthly,month,0.18,30,10,630,148.0,482.0,Culture
+16,gisp,monthly,month,0.18,30,20,510,148.0,362.0,Culture
+15,gisp,monthly,month,0.18,30,40,480,148.0,332.0,Culture
+12,gisp,monthly,month,0.18,30,80,390,148.0,242.0,Culture
+16,gisp,monthly,month,0.19,30,25,510,173.0,337.0,Culture
+10,naats,monthly,month,0.19,30,0.05,330,173.0,157.0,NAAT remnants
+9,naats,monthly,month,0.19,30,0.1,300,173.0,127.0,NAAT remnants
+8,naats,monthly,month,0.19,30,0.2,270,173.0,97.0,NAAT remnants
+8,naats,monthly,month,0.19,30,0.4,270,173.0,97.0,NAAT remnants
+7,naats,monthly,month,0.19,30,0.8,240,173.0,67.0,NAAT remnants
+21,gisp,monthly,month,0.19,30,5,660,173.0,487.0,Culture
+20,gisp,monthly,month,0.19,30,10,630,173.0,457.0,Culture
+16,gisp,monthly,month,0.19,30,20,510,173.0,337.0,Culture
+15,gisp,monthly,month,0.19,30,40,480,173.0,307.0,Culture
+13,gisp,monthly,month,0.19,30,80,420,173.0,247.0,Culture
+16,gisp,monthly,month,0.2,30,25,510,196.0,314.0,Culture
+10,naats,monthly,month,0.2,30,0.05,330,196.0,134.0,NAAT remnants
+9,naats,monthly,month,0.2,30,0.1,300,196.0,104.0,NAAT remnants
+9,naats,monthly,month,0.2,30,0.2,300,196.0,104.0,NAAT remnants
+8,naats,monthly,month,0.2,30,0.4,270,196.0,74.0,NAAT remnants
+8,naats,monthly,month,0.2,30,0.8,270,196.0,74.0,NAAT remnants
+21,gisp,monthly,month,0.2,30,5,660,196.0,464.0,Culture
+20,gisp,monthly,month,0.2,30,10,630,196.0,434.0,Culture
+16,gisp,monthly,month,0.2,30,20,510,196.0,314.0,Culture
+15,gisp,monthly,month,0.2,30,40,480,196.0,284.0,Culture
+13,gisp,monthly,month,0.2,30,80,420,196.0,224.0,Culture
+18,gisp,monthly,month,0.21,30,25,570,219.0,351.0,Culture
+11,naats,monthly,month,0.21,30,0.05,360,219.0,141.0,NAAT remnants
+10,naats,monthly,month,0.21,30,0.1,330,219.0,111.0,NAAT remnants
+10,naats,monthly,month,0.21,30,0.2,330,219.0,111.0,NAAT remnants
+9,naats,monthly,month,0.21,30,0.4,300,219.0,81.0,NAAT remnants
+9,naats,monthly,month,0.21,30,0.8,300,219.0,81.0,NAAT remnants
+31,gisp,monthly,month,0.21,30,5,960,219.0,741.0,Culture
+24,gisp,monthly,month,0.21,30,10,750,219.0,531.0,Culture
+19,gisp,monthly,month,0.21,30,20,600,219.0,381.0,Culture
+16,gisp,monthly,month,0.21,30,40,510,219.0,291.0,Culture
+13,gisp,monthly,month,0.21,30,80,420,219.0,201.0,Culture
+18,gisp,monthly,month,0.22,30,25,570,241.0,329.0,Culture
+12,naats,monthly,month,0.22,30,0.05,390,241.0,149.0,NAAT remnants
+11,naats,monthly,month,0.22,30,0.1,360,241.0,119.0,NAAT remnants
+10,naats,monthly,month,0.22,30,0.2,330,241.0,89.0,NAAT remnants
+10,naats,monthly,month,0.22,30,0.4,330,241.0,89.0,NAAT remnants
+10,naats,monthly,month,0.22,30,0.8,330,241.0,89.0,NAAT remnants
+31,gisp,monthly,month,0.22,30,5,960,241.0,719.0,Culture
+24,gisp,monthly,month,0.22,30,10,750,241.0,509.0,Culture
+19,gisp,monthly,month,0.22,30,20,600,241.0,359.0,Culture
+16,gisp,monthly,month,0.22,30,40,510,241.0,269.0,Culture
+14,gisp,monthly,month,0.22,30,80,450,241.0,209.0,Culture
+18,gisp,monthly,month,0.23,30,25,570,262.0,308.0,Culture
+13,naats,monthly,month,0.23,30,0.05,420,262.0,158.0,NAAT remnants
+12,naats,monthly,month,0.23,30,0.1,390,262.0,128.0,NAAT remnants
+11,naats,monthly,month,0.23,30,0.2,360,262.0,98.0,NAAT remnants
+11,naats,monthly,month,0.23,30,0.4,360,262.0,98.0,NAAT remnants
+10,naats,monthly,month,0.23,30,0.8,330,262.0,68.0,NAAT remnants
+31,gisp,monthly,month,0.23,30,5,960,262.0,698.0,Culture
+24,gisp,monthly,month,0.23,30,10,750,262.0,488.0,Culture
+19,gisp,monthly,month,0.23,30,20,600,262.0,338.0,Culture
+17,gisp,monthly,month,0.23,30,40,540,262.0,278.0,Culture
+15,gisp,monthly,month,0.23,30,80,480,262.0,218.0,Culture
+18,gisp,monthly,month,0.24,30,25,570,282.0,288.0,Culture
+14,naats,monthly,month,0.24,30,0.05,450,282.0,168.0,NAAT remnants
+12,naats,monthly,month,0.24,30,0.1,390,282.0,108.0,NAAT remnants
+12,naats,monthly,month,0.24,30,0.2,390,282.0,108.0,NAAT remnants
+11,naats,monthly,month,0.24,30,0.4,360,282.0,78.0,NAAT remnants
+11,naats,monthly,month,0.24,30,0.8,360,282.0,78.0,NAAT remnants
+31,gisp,monthly,month,0.24,30,5,960,282.0,678.0,Culture
+24,gisp,monthly,month,0.24,30,10,750,282.0,468.0,Culture
+19,gisp,monthly,month,0.24,30,20,600,282.0,318.0,Culture
+17,gisp,monthly,month,0.24,30,40,540,282.0,258.0,Culture
+15,gisp,monthly,month,0.24,30,80,480,282.0,198.0,Culture
+20,gisp,monthly,month,0.25,30,25,630,302.0,328.0,Culture
+14,naats,monthly,month,0.25,30,0.05,450,302.0,148.0,NAAT remnants
+13,naats,monthly,month,0.25,30,0.1,420,302.0,118.0,NAAT remnants
+12,naats,monthly,month,0.25,30,0.2,390,302.0,88.0,NAAT remnants
+12,naats,monthly,month,0.25,30,0.4,390,302.0,88.0,NAAT remnants
+12,naats,monthly,month,0.25,30,0.8,390,302.0,88.0,NAAT remnants
+31,gisp,monthly,month,0.25,30,5,960,302.0,658.0,Culture
+24,gisp,monthly,month,0.25,30,10,750,302.0,448.0,Culture
+19,gisp,monthly,month,0.25,30,20,600,302.0,298.0,Culture
+17,gisp,monthly,month,0.25,30,40,540,302.0,238.0,Culture
+15,gisp,monthly,month,0.25,30,80,480,302.0,178.0,Culture
+20,gisp,monthly,month,0.26,30,25,630,321.0,309.0,Culture
+15,naats,monthly,month,0.26,30,0.05,480,321.0,159.0,NAAT remnants
+14,naats,monthly,month,0.26,30,0.1,450,321.0,129.0,NAAT remnants
+13,naats,monthly,month,0.26,30,0.2,420,321.0,99.0,NAAT remnants
+12,naats,monthly,month,0.26,30,0.4,390,321.0,69.0,NAAT remnants
+12,naats,monthly,month,0.26,30,0.8,390,321.0,69.0,NAAT remnants
+31,gisp,monthly,month,0.26,30,5,960,321.0,639.0,Culture
+24,gisp,monthly,month,0.26,30,10,750,321.0,429.0,Culture
+22,gisp,monthly,month,0.26,30,20,690,321.0,369.0,Culture
+19,gisp,monthly,month,0.26,30,40,600,321.0,279.0,Culture
+16,gisp,monthly,month,0.26,30,80,510,321.0,189.0,Culture
+20,gisp,monthly,month,0.27,30,25,630,340.0,290.0,Culture
+15,naats,monthly,month,0.27,30,0.05,480,340.0,140.0,NAAT remnants
+14,naats,monthly,month,0.27,30,0.1,450,340.0,110.0,NAAT remnants
+14,naats,monthly,month,0.27,30,0.2,450,340.0,110.0,NAAT remnants
+13,naats,monthly,month,0.27,30,0.4,420,340.0,80.0,NAAT remnants
+13,naats,monthly,month,0.27,30,0.8,420,340.0,80.0,NAAT remnants
+31,gisp,monthly,month,0.27,30,5,960,340.0,620.0,Culture
+24,gisp,monthly,month,0.27,30,10,750,340.0,410.0,Culture
+22,gisp,monthly,month,0.27,30,20,690,340.0,350.0,Culture
+19,gisp,monthly,month,0.27,30,40,600,340.0,260.0,Culture
+17,gisp,monthly,month,0.27,30,80,540,340.0,200.0,Culture
+20,gisp,monthly,month,0.28,30,25,630,358.0,272.0,Culture
+16,naats,monthly,month,0.28,30,0.05,510,358.0,152.0,NAAT remnants
+15,naats,monthly,month,0.28,30,0.1,480,358.0,122.0,NAAT remnants
+14,naats,monthly,month,0.28,30,0.2,450,358.0,92.0,NAAT remnants
+14,naats,monthly,month,0.28,30,0.4,450,358.0,92.0,NAAT remnants
+13,naats,monthly,month,0.28,30,0.8,420,358.0,62.0,NAAT remnants
+31,gisp,monthly,month,0.28,30,5,960,358.0,602.0,Culture
+24,gisp,monthly,month,0.28,30,10,750,358.0,392.0,Culture
+22,gisp,monthly,month,0.28,30,20,690,358.0,332.0,Culture
+20,gisp,monthly,month,0.28,30,40,630,358.0,272.0,Culture
+17,gisp,monthly,month,0.28,30,80,540,358.0,182.0,Culture
+23,gisp,monthly,month,0.29,30,25,720,376.0,344.0,Culture
+17,naats,monthly,month,0.29,30,0.05,540,376.0,164.0,NAAT remnants
+16,naats,monthly,month,0.29,30,0.1,510,376.0,134.0,NAAT remnants
+15,naats,monthly,month,0.29,30,0.2,480,376.0,104.0,NAAT remnants
+14,naats,monthly,month,0.29,30,0.4,450,376.0,74.0,NAAT remnants
+14,naats,monthly,month,0.29,30,0.8,450,376.0,74.0,NAAT remnants
+31,gisp,monthly,month,0.29,30,5,960,376.0,584.0,Culture
+24,gisp,monthly,month,0.29,30,10,750,376.0,374.0,Culture
+22,gisp,monthly,month,0.29,30,20,690,376.0,314.0,Culture
+20,gisp,monthly,month,0.29,30,40,630,376.0,254.0,Culture
+18,gisp,monthly,month,0.29,30,80,570,376.0,194.0,Culture
+4,gisp,monthly,month,0.11,50,25,150,0.0,150.0,Culture
+1,naats,monthly,month,0.11,50,0.05,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.11,50,0.1,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,50,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,50,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,50,0.8,30,0.0,30.0,NAAT remnants
+12,gisp,monthly,month,0.11,50,5,390,0.0,390.0,Culture
+10,gisp,monthly,month,0.11,50,10,330,0.0,330.0,Culture
+7,gisp,monthly,month,0.11,50,20,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.11,50,40,150,0.0,150.0,Culture
+2,gisp,monthly,month,0.11,50,80,90,0.0,90.0,Culture
+7,gisp,monthly,month,0.12,50,25,240,0.0,240.0,Culture
+1,naats,monthly,month,0.12,50,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.12,50,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.12,50,0.2,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.12,50,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,50,0.8,30,0.0,30.0,NAAT remnants
+12,gisp,monthly,month,0.12,50,5,390,0.0,390.0,Culture
+10,gisp,monthly,month,0.12,50,10,330,0.0,330.0,Culture
+7,gisp,monthly,month,0.12,50,20,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.12,50,40,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.12,50,80,120,0.0,120.0,Culture
+7,gisp,monthly,month,0.13,50,25,240,0.0,240.0,Culture
+2,naats,monthly,month,0.13,50,0.05,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.13,50,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.13,50,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.13,50,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.13,50,0.8,60,0.0,60.0,NAAT remnants
+12,gisp,monthly,month,0.13,50,5,390,0.0,390.0,Culture
+10,gisp,monthly,month,0.13,50,10,330,0.0,330.0,Culture
+7,gisp,monthly,month,0.13,50,20,240,0.0,240.0,Culture
+5,gisp,monthly,month,0.13,50,40,180,0.0,180.0,Culture
+3,gisp,monthly,month,0.13,50,80,120,0.0,120.0,Culture
+7,gisp,monthly,month,0.14,50,25,240,0.0,240.0,Culture
+2,naats,monthly,month,0.14,50,0.05,90,0.0,90.0,NAAT remnants
+2,naats,monthly,month,0.14,50,0.1,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.14,50,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,50,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,50,0.8,60,0.0,60.0,NAAT remnants
+12,gisp,monthly,month,0.14,50,5,390,0.0,390.0,Culture
+10,gisp,monthly,month,0.14,50,10,330,0.0,330.0,Culture
+7,gisp,monthly,month,0.14,50,20,240,0.0,240.0,Culture
+5,gisp,monthly,month,0.14,50,40,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.14,50,80,150,0.0,150.0,Culture
+7,gisp,monthly,month,0.15,50,25,240,0.0,240.0,Culture
+3,naats,monthly,month,0.15,50,0.05,120,0.0,120.0,NAAT remnants
+2,naats,monthly,month,0.15,50,0.1,90,0.0,90.0,NAAT remnants
+2,naats,monthly,month,0.15,50,0.2,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.15,50,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,50,0.8,60,0.0,60.0,NAAT remnants
+12,gisp,monthly,month,0.15,50,5,390,0.0,390.0,Culture
+10,gisp,monthly,month,0.15,50,10,330,0.0,330.0,Culture
+7,gisp,monthly,month,0.15,50,20,240,0.0,240.0,Culture
+5,gisp,monthly,month,0.15,50,40,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.15,50,80,150,0.0,150.0,Culture
+7,gisp,monthly,month,0.16,50,25,240,18.0,222.0,Culture
+3,naats,monthly,month,0.16,50,0.05,120,18.0,102.0,NAAT remnants
+3,naats,monthly,month,0.16,50,0.1,120,18.0,102.0,NAAT remnants
+2,naats,monthly,month,0.16,50,0.2,90,18.0,72.0,NAAT remnants
+2,naats,monthly,month,0.16,50,0.4,90,18.0,72.0,NAAT remnants
+2,naats,monthly,month,0.16,50,0.8,90,18.0,72.0,NAAT remnants
+12,gisp,monthly,month,0.16,50,5,390,18.0,372.0,Culture
+10,gisp,monthly,month,0.16,50,10,330,18.0,312.0,Culture
+9,gisp,monthly,month,0.16,50,20,300,18.0,282.0,Culture
+6,gisp,monthly,month,0.16,50,40,210,18.0,192.0,Culture
+5,gisp,monthly,month,0.16,50,80,180,18.0,162.0,Culture
+9,gisp,monthly,month,0.17,50,25,300,33.0,267.0,Culture
+4,naats,monthly,month,0.17,50,0.05,150,33.0,117.0,NAAT remnants
+3,naats,monthly,month,0.17,50,0.1,120,33.0,87.0,NAAT remnants
+3,naats,monthly,month,0.17,50,0.2,120,33.0,87.0,NAAT remnants
+3,naats,monthly,month,0.17,50,0.4,120,33.0,87.0,NAAT remnants
+2,naats,monthly,month,0.17,50,0.8,90,33.0,57.0,NAAT remnants
+12,gisp,monthly,month,0.17,50,5,390,33.0,357.0,Culture
+10,gisp,monthly,month,0.17,50,10,330,33.0,297.0,Culture
+9,gisp,monthly,month,0.17,50,20,300,33.0,267.0,Culture
+6,gisp,monthly,month,0.17,50,40,210,33.0,177.0,Culture
+5,gisp,monthly,month,0.17,50,80,180,33.0,147.0,Culture
+9,gisp,monthly,month,0.18,50,25,300,48.0,252.0,Culture
+4,naats,monthly,month,0.18,50,0.05,150,48.0,102.0,NAAT remnants
+4,naats,monthly,month,0.18,50,0.1,150,48.0,102.0,NAAT remnants
+3,naats,monthly,month,0.18,50,0.2,120,48.0,72.0,NAAT remnants
+3,naats,monthly,month,0.18,50,0.4,120,48.0,72.0,NAAT remnants
+3,naats,monthly,month,0.18,50,0.8,120,48.0,72.0,NAAT remnants
+12,gisp,monthly,month,0.18,50,5,390,48.0,342.0,Culture
+10,gisp,monthly,month,0.18,50,10,330,48.0,282.0,Culture
+9,gisp,monthly,month,0.18,50,20,300,48.0,252.0,Culture
+7,gisp,monthly,month,0.18,50,40,240,48.0,192.0,Culture
+6,gisp,monthly,month,0.18,50,80,210,48.0,162.0,Culture
+9,gisp,monthly,month,0.19,50,25,300,62.0,238.0,Culture
+5,naats,monthly,month,0.19,50,0.05,180,62.0,118.0,NAAT remnants
+4,naats,monthly,month,0.19,50,0.1,150,62.0,88.0,NAAT remnants
+4,naats,monthly,month,0.19,50,0.2,150,62.0,88.0,NAAT remnants
+3,naats,monthly,month,0.19,50,0.4,120,62.0,58.0,NAAT remnants
+3,naats,monthly,month,0.19,50,0.8,120,62.0,58.0,NAAT remnants
+12,gisp,monthly,month,0.19,50,5,390,62.0,328.0,Culture
+10,gisp,monthly,month,0.19,50,10,330,62.0,268.0,Culture
+9,gisp,monthly,month,0.19,50,20,300,62.0,238.0,Culture
+7,gisp,monthly,month,0.19,50,40,240,62.0,178.0,Culture
+6,gisp,monthly,month,0.19,50,80,210,62.0,148.0,Culture
+9,gisp,monthly,month,0.2,50,25,300,76.0,224.0,Culture
+5,naats,monthly,month,0.2,50,0.05,180,76.0,104.0,NAAT remnants
+5,naats,monthly,month,0.2,50,0.1,180,76.0,104.0,NAAT remnants
+4,naats,monthly,month,0.2,50,0.2,150,76.0,74.0,NAAT remnants
+4,naats,monthly,month,0.2,50,0.4,150,76.0,74.0,NAAT remnants
+4,naats,monthly,month,0.2,50,0.8,150,76.0,74.0,NAAT remnants
+12,gisp,monthly,month,0.2,50,5,390,76.0,314.0,Culture
+10,gisp,monthly,month,0.2,50,10,330,76.0,254.0,Culture
+9,gisp,monthly,month,0.2,50,20,300,76.0,224.0,Culture
+7,gisp,monthly,month,0.2,50,40,240,76.0,164.0,Culture
+6,gisp,monthly,month,0.2,50,80,210,76.0,134.0,Culture
+9,gisp,monthly,month,0.21,50,25,300,89.0,211.0,Culture
+6,naats,monthly,month,0.21,50,0.05,210,89.0,121.0,NAAT remnants
+5,naats,monthly,month,0.21,50,0.1,180,89.0,91.0,NAAT remnants
+5,naats,monthly,month,0.21,50,0.2,180,89.0,91.0,NAAT remnants
+4,naats,monthly,month,0.21,50,0.4,150,89.0,61.0,NAAT remnants
+4,naats,monthly,month,0.21,50,0.8,150,89.0,61.0,NAAT remnants
+18,gisp,monthly,month,0.21,50,5,570,89.0,481.0,Culture
+14,gisp,monthly,month,0.21,50,10,450,89.0,361.0,Culture
+11,gisp,monthly,month,0.21,50,20,360,89.0,271.0,Culture
+8,gisp,monthly,month,0.21,50,40,270,89.0,181.0,Culture
+7,gisp,monthly,month,0.21,50,80,240,89.0,151.0,Culture
+9,gisp,monthly,month,0.22,50,25,300,102.0,198.0,Culture
+6,naats,monthly,month,0.22,50,0.05,210,102.0,108.0,NAAT remnants
+6,naats,monthly,month,0.22,50,0.1,210,102.0,108.0,NAAT remnants
+5,naats,monthly,month,0.22,50,0.2,180,102.0,78.0,NAAT remnants
+5,naats,monthly,month,0.22,50,0.4,180,102.0,78.0,NAAT remnants
+5,naats,monthly,month,0.22,50,0.8,180,102.0,78.0,NAAT remnants
+18,gisp,monthly,month,0.22,50,5,570,102.0,468.0,Culture
+14,gisp,monthly,month,0.22,50,10,450,102.0,348.0,Culture
+11,gisp,monthly,month,0.22,50,20,360,102.0,258.0,Culture
+8,gisp,monthly,month,0.22,50,40,270,102.0,168.0,Culture
+7,gisp,monthly,month,0.22,50,80,240,102.0,138.0,Culture
+9,gisp,monthly,month,0.23,50,25,300,114.0,186.0,Culture
+7,naats,monthly,month,0.23,50,0.05,240,114.0,126.0,NAAT remnants
+6,naats,monthly,month,0.23,50,0.1,210,114.0,96.0,NAAT remnants
+5,naats,monthly,month,0.23,50,0.2,180,114.0,66.0,NAAT remnants
+5,naats,monthly,month,0.23,50,0.4,180,114.0,66.0,NAAT remnants
+5,naats,monthly,month,0.23,50,0.8,180,114.0,66.0,NAAT remnants
+18,gisp,monthly,month,0.23,50,5,570,114.0,456.0,Culture
+14,gisp,monthly,month,0.23,50,10,450,114.0,336.0,Culture
+11,gisp,monthly,month,0.23,50,20,360,114.0,246.0,Culture
+9,gisp,monthly,month,0.23,50,40,300,114.0,186.0,Culture
+7,gisp,monthly,month,0.23,50,80,240,114.0,126.0,Culture
+9,gisp,monthly,month,0.24,50,25,300,126.0,174.0,Culture
+7,naats,monthly,month,0.24,50,0.05,240,126.0,114.0,NAAT remnants
+6,naats,monthly,month,0.24,50,0.1,210,126.0,84.0,NAAT remnants
+6,naats,monthly,month,0.24,50,0.2,210,126.0,84.0,NAAT remnants
+6,naats,monthly,month,0.24,50,0.4,210,126.0,84.0,NAAT remnants
+5,naats,monthly,month,0.24,50,0.8,180,126.0,54.0,NAAT remnants
+18,gisp,monthly,month,0.24,50,5,570,126.0,444.0,Culture
+14,gisp,monthly,month,0.24,50,10,450,126.0,324.0,Culture
+11,gisp,monthly,month,0.24,50,20,360,126.0,234.0,Culture
+9,gisp,monthly,month,0.24,50,40,300,126.0,174.0,Culture
+8,gisp,monthly,month,0.24,50,80,270,126.0,144.0,Culture
+11,gisp,monthly,month,0.25,50,25,360,138.0,222.0,Culture
+8,naats,monthly,month,0.25,50,0.05,270,138.0,132.0,NAAT remnants
+7,naats,monthly,month,0.25,50,0.1,240,138.0,102.0,NAAT remnants
+6,naats,monthly,month,0.25,50,0.2,210,138.0,72.0,NAAT remnants
+6,naats,monthly,month,0.25,50,0.4,210,138.0,72.0,NAAT remnants
+6,naats,monthly,month,0.25,50,0.8,210,138.0,72.0,NAAT remnants
+18,gisp,monthly,month,0.25,50,5,570,138.0,432.0,Culture
+14,gisp,monthly,month,0.25,50,10,450,138.0,312.0,Culture
+11,gisp,monthly,month,0.25,50,20,360,138.0,222.0,Culture
+9,gisp,monthly,month,0.25,50,40,300,138.0,162.0,Culture
+8,gisp,monthly,month,0.25,50,80,270,138.0,132.0,Culture
+11,gisp,monthly,month,0.26,50,25,360,149.0,211.0,Culture
+8,naats,monthly,month,0.26,50,0.05,270,149.0,121.0,NAAT remnants
+7,naats,monthly,month,0.26,50,0.1,240,149.0,91.0,NAAT remnants
+7,naats,monthly,month,0.26,50,0.2,240,149.0,91.0,NAAT remnants
+6,naats,monthly,month,0.26,50,0.4,210,149.0,61.0,NAAT remnants
+6,naats,monthly,month,0.26,50,0.8,210,149.0,61.0,NAAT remnants
+18,gisp,monthly,month,0.26,50,5,570,149.0,421.0,Culture
+14,gisp,monthly,month,0.26,50,10,450,149.0,301.0,Culture
+12,gisp,monthly,month,0.26,50,20,390,149.0,241.0,Culture
+10,gisp,monthly,month,0.26,50,40,330,149.0,181.0,Culture
+8,gisp,monthly,month,0.26,50,80,270,149.0,121.0,Culture
+11,gisp,monthly,month,0.27,50,25,360,160.0,200.0,Culture
+8,naats,monthly,month,0.27,50,0.05,270,160.0,110.0,NAAT remnants
+7,naats,monthly,month,0.27,50,0.1,240,160.0,80.0,NAAT remnants
+7,naats,monthly,month,0.27,50,0.2,240,160.0,80.0,NAAT remnants
+7,naats,monthly,month,0.27,50,0.4,240,160.0,80.0,NAAT remnants
+6,naats,monthly,month,0.27,50,0.8,210,160.0,50.0,NAAT remnants
+18,gisp,monthly,month,0.27,50,5,570,160.0,410.0,Culture
+14,gisp,monthly,month,0.27,50,10,450,160.0,290.0,Culture
+12,gisp,monthly,month,0.27,50,20,390,160.0,230.0,Culture
+10,gisp,monthly,month,0.27,50,40,330,160.0,170.0,Culture
+8,gisp,monthly,month,0.27,50,80,270,160.0,110.0,Culture
+11,gisp,monthly,month,0.28,50,25,360,170.0,190.0,Culture
+8,naats,monthly,month,0.28,50,0.05,270,170.0,100.0,NAAT remnants
+8,naats,monthly,month,0.28,50,0.1,270,170.0,100.0,NAAT remnants
+7,naats,monthly,month,0.28,50,0.2,240,170.0,70.0,NAAT remnants
+7,naats,monthly,month,0.28,50,0.4,240,170.0,70.0,NAAT remnants
+7,naats,monthly,month,0.28,50,0.8,240,170.0,70.0,NAAT remnants
+18,gisp,monthly,month,0.28,50,5,570,170.0,400.0,Culture
+14,gisp,monthly,month,0.28,50,10,450,170.0,280.0,Culture
+12,gisp,monthly,month,0.28,50,20,390,170.0,220.0,Culture
+11,gisp,monthly,month,0.28,50,40,360,170.0,190.0,Culture
+8,gisp,monthly,month,0.28,50,80,270,170.0,100.0,Culture
+12,gisp,monthly,month,0.29,50,25,390,180.0,210.0,Culture
+9,naats,monthly,month,0.29,50,0.05,300,180.0,120.0,NAAT remnants
+8,naats,monthly,month,0.29,50,0.1,270,180.0,90.0,NAAT remnants
+8,naats,monthly,month,0.29,50,0.2,270,180.0,90.0,NAAT remnants
+7,naats,monthly,month,0.29,50,0.4,240,180.0,60.0,NAAT remnants
+7,naats,monthly,month,0.29,50,0.8,240,180.0,60.0,NAAT remnants
+18,gisp,monthly,month,0.29,50,5,570,180.0,390.0,Culture
+14,gisp,monthly,month,0.29,50,10,450,180.0,270.0,Culture
+12,gisp,monthly,month,0.29,50,20,390,180.0,210.0,Culture
+11,gisp,monthly,month,0.29,50,40,360,180.0,180.0,Culture
+9,gisp,monthly,month,0.29,50,80,300,180.0,120.0,Culture
+3,gisp,monthly,month,0.11,70,25,120,0.0,120.0,Culture
+1,naats,monthly,month,0.11,70,0.05,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.11,70,0.1,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,70,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,70,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,70,0.8,30,0.0,30.0,NAAT remnants
+8,gisp,monthly,month,0.11,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.11,70,10,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.11,70,20,150,0.0,150.0,Culture
+2,gisp,monthly,month,0.11,70,40,90,0.0,90.0,Culture
+1,gisp,monthly,month,0.11,70,80,60,0.0,60.0,Culture
+4,gisp,monthly,month,0.12,70,25,150,0.0,150.0,Culture
+1,naats,monthly,month,0.12,70,0.05,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.12,70,0.1,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,70,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,70,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,70,0.8,30,0.0,30.0,NAAT remnants
+8,gisp,monthly,month,0.12,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.12,70,10,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.12,70,20,150,0.0,150.0,Culture
+2,gisp,monthly,month,0.12,70,40,90,0.0,90.0,Culture
+2,gisp,monthly,month,0.12,70,80,90,0.0,90.0,Culture
+4,gisp,monthly,month,0.13,70,25,150,0.0,150.0,Culture
+1,naats,monthly,month,0.13,70,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.13,70,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.13,70,0.2,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.13,70,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.13,70,0.8,30,0.0,30.0,NAAT remnants
+8,gisp,monthly,month,0.13,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.13,70,10,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.13,70,20,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.13,70,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.13,70,80,90,0.0,90.0,Culture
+4,gisp,monthly,month,0.14,70,25,150,0.0,150.0,Culture
+1,naats,monthly,month,0.14,70,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,70,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,70,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,70,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,70,0.8,60,0.0,60.0,NAAT remnants
+8,gisp,monthly,month,0.14,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.14,70,10,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.14,70,20,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.14,70,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.14,70,80,90,0.0,90.0,Culture
+4,gisp,monthly,month,0.15,70,25,150,0.0,150.0,Culture
+1,naats,monthly,month,0.15,70,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,70,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,70,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,70,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,70,0.8,60,0.0,60.0,NAAT remnants
+8,gisp,monthly,month,0.15,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.15,70,10,240,0.0,240.0,Culture
+4,gisp,monthly,month,0.15,70,20,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.15,70,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.15,70,80,90,0.0,90.0,Culture
+4,gisp,monthly,month,0.16,70,25,150,0.0,150.0,Culture
+2,naats,monthly,month,0.16,70,0.05,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.16,70,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,70,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,70,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,70,0.8,60,0.0,60.0,NAAT remnants
+8,gisp,monthly,month,0.16,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.16,70,10,240,0.0,240.0,Culture
+5,gisp,monthly,month,0.16,70,20,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.16,70,40,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.16,70,80,120,0.0,120.0,Culture
+5,gisp,monthly,month,0.17,70,25,180,0.0,180.0,Culture
+2,naats,monthly,month,0.17,70,0.05,90,0.0,90.0,NAAT remnants
+2,naats,monthly,month,0.17,70,0.1,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.17,70,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.17,70,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.17,70,0.8,60,0.0,60.0,NAAT remnants
+8,gisp,monthly,month,0.17,70,5,270,0.0,270.0,Culture
+7,gisp,monthly,month,0.17,70,10,240,0.0,240.0,Culture
+5,gisp,monthly,month,0.17,70,20,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.17,70,40,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.17,70,80,120,0.0,120.0,Culture
+5,gisp,monthly,month,0.18,70,25,180,6.0,174.0,Culture
+2,naats,monthly,month,0.18,70,0.05,90,6.0,84.0,NAAT remnants
+2,naats,monthly,month,0.18,70,0.1,90,6.0,84.0,NAAT remnants
+2,naats,monthly,month,0.18,70,0.2,90,6.0,84.0,NAAT remnants
+1,naats,monthly,month,0.18,70,0.4,60,6.0,54.0,NAAT remnants
+1,naats,monthly,month,0.18,70,0.8,60,6.0,54.0,NAAT remnants
+8,gisp,monthly,month,0.18,70,5,270,6.0,264.0,Culture
+7,gisp,monthly,month,0.18,70,10,240,6.0,234.0,Culture
+5,gisp,monthly,month,0.18,70,20,180,6.0,174.0,Culture
+5,gisp,monthly,month,0.18,70,40,180,6.0,174.0,Culture
+3,gisp,monthly,month,0.18,70,80,120,6.0,114.0,Culture
+5,gisp,monthly,month,0.19,70,25,180,14.0,166.0,Culture
+3,naats,monthly,month,0.19,70,0.05,120,14.0,106.0,NAAT remnants
+2,naats,monthly,month,0.19,70,0.1,90,14.0,76.0,NAAT remnants
+2,naats,monthly,month,0.19,70,0.2,90,14.0,76.0,NAAT remnants
+2,naats,monthly,month,0.19,70,0.4,90,14.0,76.0,NAAT remnants
+2,naats,monthly,month,0.19,70,0.8,90,14.0,76.0,NAAT remnants
+8,gisp,monthly,month,0.19,70,5,270,14.0,256.0,Culture
+7,gisp,monthly,month,0.19,70,10,240,14.0,226.0,Culture
+5,gisp,monthly,month,0.19,70,20,180,14.0,166.0,Culture
+5,gisp,monthly,month,0.19,70,40,180,14.0,166.0,Culture
+4,gisp,monthly,month,0.19,70,80,150,14.0,136.0,Culture
+5,gisp,monthly,month,0.2,70,25,180,23.0,157.0,Culture
+3,naats,monthly,month,0.2,70,0.05,120,23.0,97.0,NAAT remnants
+3,naats,monthly,month,0.2,70,0.1,120,23.0,97.0,NAAT remnants
+2,naats,monthly,month,0.2,70,0.2,90,23.0,67.0,NAAT remnants
+2,naats,monthly,month,0.2,70,0.4,90,23.0,67.0,NAAT remnants
+2,naats,monthly,month,0.2,70,0.8,90,23.0,67.0,NAAT remnants
+8,gisp,monthly,month,0.2,70,5,270,23.0,247.0,Culture
+7,gisp,monthly,month,0.2,70,10,240,23.0,217.0,Culture
+5,gisp,monthly,month,0.2,70,20,180,23.0,157.0,Culture
+5,gisp,monthly,month,0.2,70,40,180,23.0,157.0,Culture
+4,gisp,monthly,month,0.2,70,80,150,23.0,127.0,Culture
+6,gisp,monthly,month,0.21,70,25,210,32.0,178.0,Culture
+3,naats,monthly,month,0.21,70,0.05,120,32.0,88.0,NAAT remnants
+3,naats,monthly,month,0.21,70,0.1,120,32.0,88.0,NAAT remnants
+3,naats,monthly,month,0.21,70,0.2,120,32.0,88.0,NAAT remnants
+2,naats,monthly,month,0.21,70,0.4,90,32.0,58.0,NAAT remnants
+2,naats,monthly,month,0.21,70,0.8,90,32.0,58.0,NAAT remnants
+11,gisp,monthly,month,0.21,70,5,360,32.0,328.0,Culture
+9,gisp,monthly,month,0.21,70,10,300,32.0,268.0,Culture
+7,gisp,monthly,month,0.21,70,20,240,32.0,208.0,Culture
+5,gisp,monthly,month,0.21,70,40,180,32.0,148.0,Culture
+4,gisp,monthly,month,0.21,70,80,150,32.0,118.0,Culture
+6,gisp,monthly,month,0.22,70,25,210,40.0,170.0,Culture
+4,naats,monthly,month,0.22,70,0.05,150,40.0,110.0,NAAT remnants
+3,naats,monthly,month,0.22,70,0.1,120,40.0,80.0,NAAT remnants
+3,naats,monthly,month,0.22,70,0.2,120,40.0,80.0,NAAT remnants
+3,naats,monthly,month,0.22,70,0.4,120,40.0,80.0,NAAT remnants
+2,naats,monthly,month,0.22,70,0.8,90,40.0,50.0,NAAT remnants
+11,gisp,monthly,month,0.22,70,5,360,40.0,320.0,Culture
+9,gisp,monthly,month,0.22,70,10,300,40.0,260.0,Culture
+7,gisp,monthly,month,0.22,70,20,240,40.0,200.0,Culture
+5,gisp,monthly,month,0.22,70,40,180,40.0,140.0,Culture
+4,gisp,monthly,month,0.22,70,80,150,40.0,110.0,Culture
+6,gisp,monthly,month,0.23,70,25,210,49.0,161.0,Culture
+4,naats,monthly,month,0.23,70,0.05,150,49.0,101.0,NAAT remnants
+3,naats,monthly,month,0.23,70,0.1,120,49.0,71.0,NAAT remnants
+3,naats,monthly,month,0.23,70,0.2,120,49.0,71.0,NAAT remnants
+3,naats,monthly,month,0.23,70,0.4,120,49.0,71.0,NAAT remnants
+3,naats,monthly,month,0.23,70,0.8,120,49.0,71.0,NAAT remnants
+11,gisp,monthly,month,0.23,70,5,360,49.0,311.0,Culture
+9,gisp,monthly,month,0.23,70,10,300,49.0,251.0,Culture
+7,gisp,monthly,month,0.23,70,20,240,49.0,191.0,Culture
+6,gisp,monthly,month,0.23,70,40,210,49.0,161.0,Culture
+4,gisp,monthly,month,0.23,70,80,150,49.0,101.0,Culture
+6,gisp,monthly,month,0.24,70,25,210,57.0,153.0,Culture
+4,naats,monthly,month,0.24,70,0.05,150,57.0,93.0,NAAT remnants
+4,naats,monthly,month,0.24,70,0.1,150,57.0,93.0,NAAT remnants
+3,naats,monthly,month,0.24,70,0.2,120,57.0,63.0,NAAT remnants
+3,naats,monthly,month,0.24,70,0.4,120,57.0,63.0,NAAT remnants
+3,naats,monthly,month,0.24,70,0.8,120,57.0,63.0,NAAT remnants
+11,gisp,monthly,month,0.24,70,5,360,57.0,303.0,Culture
+9,gisp,monthly,month,0.24,70,10,300,57.0,243.0,Culture
+7,gisp,monthly,month,0.24,70,20,240,57.0,183.0,Culture
+6,gisp,monthly,month,0.24,70,40,210,57.0,153.0,Culture
+4,gisp,monthly,month,0.24,70,80,150,57.0,93.0,Culture
+7,gisp,monthly,month,0.25,70,25,240,66.0,174.0,Culture
+5,naats,monthly,month,0.25,70,0.05,180,66.0,114.0,NAAT remnants
+4,naats,monthly,month,0.25,70,0.1,150,66.0,84.0,NAAT remnants
+4,naats,monthly,month,0.25,70,0.2,150,66.0,84.0,NAAT remnants
+3,naats,monthly,month,0.25,70,0.4,120,66.0,54.0,NAAT remnants
+3,naats,monthly,month,0.25,70,0.8,120,66.0,54.0,NAAT remnants
+11,gisp,monthly,month,0.25,70,5,360,66.0,294.0,Culture
+9,gisp,monthly,month,0.25,70,10,300,66.0,234.0,Culture
+7,gisp,monthly,month,0.25,70,20,240,66.0,174.0,Culture
+6,gisp,monthly,month,0.25,70,40,210,66.0,144.0,Culture
+4,gisp,monthly,month,0.25,70,80,150,66.0,84.0,Culture
+7,gisp,monthly,month,0.26,70,25,240,74.0,166.0,Culture
+5,naats,monthly,month,0.26,70,0.05,180,74.0,106.0,NAAT remnants
+4,naats,monthly,month,0.26,70,0.1,150,74.0,76.0,NAAT remnants
+4,naats,monthly,month,0.26,70,0.2,150,74.0,76.0,NAAT remnants
+4,naats,monthly,month,0.26,70,0.4,150,74.0,76.0,NAAT remnants
+4,naats,monthly,month,0.26,70,0.8,150,74.0,76.0,NAAT remnants
+11,gisp,monthly,month,0.26,70,5,360,74.0,286.0,Culture
+9,gisp,monthly,month,0.26,70,10,300,74.0,226.0,Culture
+8,gisp,monthly,month,0.26,70,20,270,74.0,196.0,Culture
+6,gisp,monthly,month,0.26,70,40,210,74.0,136.0,Culture
+5,gisp,monthly,month,0.26,70,80,180,74.0,106.0,Culture
+7,gisp,monthly,month,0.27,70,25,240,81.0,159.0,Culture
+5,naats,monthly,month,0.27,70,0.05,180,81.0,99.0,NAAT remnants
+4,naats,monthly,month,0.27,70,0.1,150,81.0,69.0,NAAT remnants
+4,naats,monthly,month,0.27,70,0.2,150,81.0,69.0,NAAT remnants
+4,naats,monthly,month,0.27,70,0.4,150,81.0,69.0,NAAT remnants
+4,naats,monthly,month,0.27,70,0.8,150,81.0,69.0,NAAT remnants
+11,gisp,monthly,month,0.27,70,5,360,81.0,279.0,Culture
+9,gisp,monthly,month,0.27,70,10,300,81.0,219.0,Culture
+8,gisp,monthly,month,0.27,70,20,270,81.0,189.0,Culture
+6,gisp,monthly,month,0.27,70,40,210,81.0,129.0,Culture
+5,gisp,monthly,month,0.27,70,80,180,81.0,99.0,Culture
+7,gisp,monthly,month,0.28,70,25,240,89.0,151.0,Culture
+5,naats,monthly,month,0.28,70,0.05,180,89.0,91.0,NAAT remnants
+5,naats,monthly,month,0.28,70,0.1,180,89.0,91.0,NAAT remnants
+4,naats,monthly,month,0.28,70,0.2,150,89.0,61.0,NAAT remnants
+4,naats,monthly,month,0.28,70,0.4,150,89.0,61.0,NAAT remnants
+4,naats,monthly,month,0.28,70,0.8,150,89.0,61.0,NAAT remnants
+11,gisp,monthly,month,0.28,70,5,360,89.0,271.0,Culture
+9,gisp,monthly,month,0.28,70,10,300,89.0,211.0,Culture
+8,gisp,monthly,month,0.28,70,20,270,89.0,181.0,Culture
+7,gisp,monthly,month,0.28,70,40,240,89.0,151.0,Culture
+5,gisp,monthly,month,0.28,70,80,180,89.0,91.0,Culture
+8,gisp,monthly,month,0.29,70,25,270,96.0,174.0,Culture
+5,naats,monthly,month,0.29,70,0.05,180,96.0,84.0,NAAT remnants
+5,naats,monthly,month,0.29,70,0.1,180,96.0,84.0,NAAT remnants
+5,naats,monthly,month,0.29,70,0.2,180,96.0,84.0,NAAT remnants
+4,naats,monthly,month,0.29,70,0.4,150,96.0,54.0,NAAT remnants
+4,naats,monthly,month,0.29,70,0.8,150,96.0,54.0,NAAT remnants
+11,gisp,monthly,month,0.29,70,5,360,96.0,264.0,Culture
+9,gisp,monthly,month,0.29,70,10,300,96.0,204.0,Culture
+8,gisp,monthly,month,0.29,70,20,270,96.0,174.0,Culture
+7,gisp,monthly,month,0.29,70,40,240,96.0,144.0,Culture
+5,gisp,monthly,month,0.29,70,80,180,96.0,84.0,Culture
+1,gisp,monthly,month,0.11,90,25,60,0.0,60.0,Culture
+0,naats,monthly,month,0.11,90,0.05,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,90,0.1,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,90,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,90,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.11,90,0.8,30,0.0,30.0,NAAT remnants
+5,gisp,monthly,month,0.11,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.11,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.11,90,20,120,0.0,120.0,Culture
+1,gisp,monthly,month,0.11,90,40,60,0.0,60.0,Culture
+1,gisp,monthly,month,0.11,90,80,60,0.0,60.0,Culture
+2,gisp,monthly,month,0.12,90,25,90,0.0,90.0,Culture
+0,naats,monthly,month,0.12,90,0.05,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,90,0.1,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,90,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,90,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.12,90,0.8,30,0.0,30.0,NAAT remnants
+5,gisp,monthly,month,0.12,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.12,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.12,90,20,120,0.0,120.0,Culture
+1,gisp,monthly,month,0.12,90,40,60,0.0,60.0,Culture
+1,gisp,monthly,month,0.12,90,80,60,0.0,60.0,Culture
+2,gisp,monthly,month,0.13,90,25,90,0.0,90.0,Culture
+1,naats,monthly,month,0.13,90,0.05,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.13,90,0.1,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.13,90,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.13,90,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.13,90,0.8,30,0.0,30.0,NAAT remnants
+5,gisp,monthly,month,0.13,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.13,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.13,90,20,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.13,90,40,90,0.0,90.0,Culture
+1,gisp,monthly,month,0.13,90,80,60,0.0,60.0,Culture
+2,gisp,monthly,month,0.14,90,25,90,0.0,90.0,Culture
+1,naats,monthly,month,0.14,90,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.14,90,0.1,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.14,90,0.2,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.14,90,0.4,30,0.0,30.0,NAAT remnants
+0,naats,monthly,month,0.14,90,0.8,30,0.0,30.0,NAAT remnants
+5,gisp,monthly,month,0.14,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.14,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.14,90,20,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.14,90,40,90,0.0,90.0,Culture
+1,gisp,monthly,month,0.14,90,80,60,0.0,60.0,Culture
+2,gisp,monthly,month,0.15,90,25,90,0.0,90.0,Culture
+1,naats,monthly,month,0.15,90,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,90,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.15,90,0.4,60,0.0,60.0,NAAT remnants
+0,naats,monthly,month,0.15,90,0.8,30,0.0,30.0,NAAT remnants
+5,gisp,monthly,month,0.15,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.15,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.15,90,20,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.15,90,40,90,0.0,90.0,Culture
+1,gisp,monthly,month,0.15,90,80,60,0.0,60.0,Culture
+2,gisp,monthly,month,0.16,90,25,90,0.0,90.0,Culture
+1,naats,monthly,month,0.16,90,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,90,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,90,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.16,90,0.8,60,0.0,60.0,NAAT remnants
+5,gisp,monthly,month,0.16,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.16,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.16,90,20,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.16,90,40,90,0.0,90.0,Culture
+2,gisp,monthly,month,0.16,90,80,90,0.0,90.0,Culture
+3,gisp,monthly,month,0.17,90,25,120,0.0,120.0,Culture
+1,naats,monthly,month,0.17,90,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.17,90,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.17,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.17,90,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.17,90,0.8,60,0.0,60.0,NAAT remnants
+5,gisp,monthly,month,0.17,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.17,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.17,90,20,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.17,90,40,90,0.0,90.0,Culture
+2,gisp,monthly,month,0.17,90,80,90,0.0,90.0,Culture
+3,gisp,monthly,month,0.18,90,25,120,0.0,120.0,Culture
+1,naats,monthly,month,0.18,90,0.05,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.18,90,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.18,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.18,90,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.18,90,0.8,60,0.0,60.0,NAAT remnants
+5,gisp,monthly,month,0.18,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.18,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.18,90,20,120,0.0,120.0,Culture
+3,gisp,monthly,month,0.18,90,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.18,90,80,90,0.0,90.0,Culture
+3,gisp,monthly,month,0.19,90,25,120,0.0,120.0,Culture
+2,naats,monthly,month,0.19,90,0.05,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.19,90,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.19,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.19,90,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.19,90,0.8,60,0.0,60.0,NAAT remnants
+5,gisp,monthly,month,0.19,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.19,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.19,90,20,120,0.0,120.0,Culture
+3,gisp,monthly,month,0.19,90,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.19,90,80,90,0.0,90.0,Culture
+3,gisp,monthly,month,0.2,90,25,120,0.0,120.0,Culture
+2,naats,monthly,month,0.2,90,0.05,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.2,90,0.1,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.2,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.2,90,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.2,90,0.8,60,0.0,60.0,NAAT remnants
+5,gisp,monthly,month,0.2,90,5,180,0.0,180.0,Culture
+4,gisp,monthly,month,0.2,90,10,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.2,90,20,120,0.0,120.0,Culture
+3,gisp,monthly,month,0.2,90,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.2,90,80,90,0.0,90.0,Culture
+4,gisp,monthly,month,0.21,90,25,150,0.0,150.0,Culture
+2,naats,monthly,month,0.21,90,0.05,90,0.0,90.0,NAAT remnants
+2,naats,monthly,month,0.21,90,0.1,90,0.0,90.0,NAAT remnants
+1,naats,monthly,month,0.21,90,0.2,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.21,90,0.4,60,0.0,60.0,NAAT remnants
+1,naats,monthly,month,0.21,90,0.8,60,0.0,60.0,NAAT remnants
+8,gisp,monthly,month,0.21,90,5,270,0.0,270.0,Culture
+6,gisp,monthly,month,0.21,90,10,210,0.0,210.0,Culture
+4,gisp,monthly,month,0.21,90,20,150,0.0,150.0,Culture
+3,gisp,monthly,month,0.21,90,40,120,0.0,120.0,Culture
+2,gisp,monthly,month,0.21,90,80,90,0.0,90.0,Culture
+4,gisp,monthly,month,0.22,90,25,150,5.0,145.0,Culture
+2,naats,monthly,month,0.22,90,0.05,90,5.0,85.0,NAAT remnants
+2,naats,monthly,month,0.22,90,0.1,90,5.0,85.0,NAAT remnants
+2,naats,monthly,month,0.22,90,0.2,90,5.0,85.0,NAAT remnants
+1,naats,monthly,month,0.22,90,0.4,60,5.0,55.0,NAAT remnants
+1,naats,monthly,month,0.22,90,0.8,60,5.0,55.0,NAAT remnants
+8,gisp,monthly,month,0.22,90,5,270,5.0,265.0,Culture
+6,gisp,monthly,month,0.22,90,10,210,5.0,205.0,Culture
+4,gisp,monthly,month,0.22,90,20,150,5.0,145.0,Culture
+3,gisp,monthly,month,0.22,90,40,120,5.0,115.0,Culture
+2,gisp,monthly,month,0.22,90,80,90,5.0,85.0,Culture
+4,gisp,monthly,month,0.23,90,25,150,10.0,140.0,Culture
+2,naats,monthly,month,0.23,90,0.05,90,10.0,80.0,NAAT remnants
+2,naats,monthly,month,0.23,90,0.1,90,10.0,80.0,NAAT remnants
+2,naats,monthly,month,0.23,90,0.2,90,10.0,80.0,NAAT remnants
+2,naats,monthly,month,0.23,90,0.4,90,10.0,80.0,NAAT remnants
+2,naats,monthly,month,0.23,90,0.8,90,10.0,80.0,NAAT remnants
+8,gisp,monthly,month,0.23,90,5,270,10.0,260.0,Culture
+6,gisp,monthly,month,0.23,90,10,210,10.0,200.0,Culture
+4,gisp,monthly,month,0.23,90,20,150,10.0,140.0,Culture
+4,gisp,monthly,month,0.23,90,40,150,10.0,140.0,Culture
+2,gisp,monthly,month,0.23,90,80,90,10.0,80.0,Culture
+4,gisp,monthly,month,0.24,90,25,150,16.0,134.0,Culture
+3,naats,monthly,month,0.24,90,0.05,120,16.0,104.0,NAAT remnants
+2,naats,monthly,month,0.24,90,0.1,90,16.0,74.0,NAAT remnants
+2,naats,monthly,month,0.24,90,0.2,90,16.0,74.0,NAAT remnants
+2,naats,monthly,month,0.24,90,0.4,90,16.0,74.0,NAAT remnants
+2,naats,monthly,month,0.24,90,0.8,90,16.0,74.0,NAAT remnants
+8,gisp,monthly,month,0.24,90,5,270,16.0,254.0,Culture
+6,gisp,monthly,month,0.24,90,10,210,16.0,194.0,Culture
+4,gisp,monthly,month,0.24,90,20,150,16.0,134.0,Culture
+4,gisp,monthly,month,0.24,90,40,150,16.0,134.0,Culture
+3,gisp,monthly,month,0.24,90,80,120,16.0,104.0,Culture
+5,gisp,monthly,month,0.25,90,25,180,22.0,158.0,Culture
+3,naats,monthly,month,0.25,90,0.05,120,22.0,98.0,NAAT remnants
+2,naats,monthly,month,0.25,90,0.1,90,22.0,68.0,NAAT remnants
+2,naats,monthly,month,0.25,90,0.2,90,22.0,68.0,NAAT remnants
+2,naats,monthly,month,0.25,90,0.4,90,22.0,68.0,NAAT remnants
+2,naats,monthly,month,0.25,90,0.8,90,22.0,68.0,NAAT remnants
+8,gisp,monthly,month,0.25,90,5,270,22.0,248.0,Culture
+6,gisp,monthly,month,0.25,90,10,210,22.0,188.0,Culture
+4,gisp,monthly,month,0.25,90,20,150,22.0,128.0,Culture
+4,gisp,monthly,month,0.25,90,40,150,22.0,128.0,Culture
+3,gisp,monthly,month,0.25,90,80,120,22.0,98.0,Culture
+5,gisp,monthly,month,0.26,90,25,180,27.0,153.0,Culture
+3,naats,monthly,month,0.26,90,0.05,120,27.0,93.0,NAAT remnants
+3,naats,monthly,month,0.26,90,0.1,120,27.0,93.0,NAAT remnants
+2,naats,monthly,month,0.26,90,0.2,90,27.0,63.0,NAAT remnants
+2,naats,monthly,month,0.26,90,0.4,90,27.0,63.0,NAAT remnants
+2,naats,monthly,month,0.26,90,0.8,90,27.0,63.0,NAAT remnants
+8,gisp,monthly,month,0.26,90,5,270,27.0,243.0,Culture
+6,gisp,monthly,month,0.26,90,10,210,27.0,183.0,Culture
+5,gisp,monthly,month,0.26,90,20,180,27.0,153.0,Culture
+4,gisp,monthly,month,0.26,90,40,150,27.0,123.0,Culture
+3,gisp,monthly,month,0.26,90,80,120,27.0,93.0,Culture
+5,gisp,monthly,month,0.27,90,25,180,33.0,147.0,Culture
+3,naats,monthly,month,0.27,90,0.05,120,33.0,87.0,NAAT remnants
+3,naats,monthly,month,0.27,90,0.1,120,33.0,87.0,NAAT remnants
+3,naats,monthly,month,0.27,90,0.2,120,33.0,87.0,NAAT remnants
+2,naats,monthly,month,0.27,90,0.4,90,33.0,57.0,NAAT remnants
+2,naats,monthly,month,0.27,90,0.8,90,33.0,57.0,NAAT remnants
+8,gisp,monthly,month,0.27,90,5,270,33.0,237.0,Culture
+6,gisp,monthly,month,0.27,90,10,210,33.0,177.0,Culture
+5,gisp,monthly,month,0.27,90,20,180,33.0,147.0,Culture
+4,gisp,monthly,month,0.27,90,40,150,33.0,117.0,Culture
+3,gisp,monthly,month,0.27,90,80,120,33.0,87.0,Culture
+5,gisp,monthly,month,0.28,90,25,180,39.0,141.0,Culture
+3,naats,monthly,month,0.28,90,0.05,120,39.0,81.0,NAAT remnants
+3,naats,monthly,month,0.28,90,0.1,120,39.0,81.0,NAAT remnants
+3,naats,monthly,month,0.28,90,0.2,120,39.0,81.0,NAAT remnants
+3,naats,monthly,month,0.28,90,0.4,120,39.0,81.0,NAAT remnants
+2,naats,monthly,month,0.28,90,0.8,90,39.0,51.0,NAAT remnants
+8,gisp,monthly,month,0.28,90,5,270,39.0,231.0,Culture
+6,gisp,monthly,month,0.28,90,10,210,39.0,171.0,Culture
+5,gisp,monthly,month,0.28,90,20,180,39.0,141.0,Culture
+4,gisp,monthly,month,0.28,90,40,150,39.0,111.0,Culture
+3,gisp,monthly,month,0.28,90,80,120,39.0,81.0,Culture
+5,gisp,monthly,month,0.29,90,25,180,45.0,135.0,Culture
+3,naats,monthly,month,0.29,90,0.05,120,45.0,75.0,NAAT remnants
+3,naats,monthly,month,0.29,90,0.1,120,45.0,75.0,NAAT remnants
+3,naats,monthly,month,0.29,90,0.2,120,45.0,75.0,NAAT remnants
+3,naats,monthly,month,0.29,90,0.4,120,45.0,75.0,NAAT remnants
+3,naats,monthly,month,0.29,90,0.8,120,45.0,75.0,NAAT remnants
+8,gisp,monthly,month,0.29,90,5,270,45.0,225.0,Culture
+6,gisp,monthly,month,0.29,90,10,210,45.0,165.0,Culture
+5,gisp,monthly,month,0.29,90,20,180,45.0,135.0,Culture
+4,gisp,monthly,month,0.29,90,40,150,45.0,105.0,Culture
+3,gisp,monthly,month,0.29,90,80,120,45.0,75.0,Culture
