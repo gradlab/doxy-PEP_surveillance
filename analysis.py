@@ -449,6 +449,7 @@ out_threshold_crossing_time['method_name'] = out_threshold_crossing_time.method.
 out_threshold_crossing_time.to_csv(outfolder+'out_threshold_crossing_time.csv', index=False)
 true_proportions.to_csv(outfolder+'true_proportions.csv', index=False)    
     
+
 # -----------------------------------------------------------------------------
 #  VISUALIZE
 # -----------------------------------------------------------------------------
@@ -528,8 +529,7 @@ data_gisp_naats_monthly.groupby(['method_name', 'dpval','sampling_intensity']).a
 """
 
 
- 
-# 2 panels
+# compare dpvals - over all sampling intensities
 fig, axs = plt.subplots(nrows=2, ncols=1, figsize=(8,6), sharex=True)
 sns.boxplot(y='method_name', x='delay_in_days',
             hue = 'dpval',
@@ -567,6 +567,45 @@ plt.savefig(plotfolder+'boxplot_2panels_delay_by-method-and-dpval_allintensities
 plt.close()    
 
 
+# compare dpvals - for main text sampling intensity
+subdata = data_gisp_naats_monthly[data_gisp_naats_monthly.sampling_intensity.isin([20,0.2])]
+
+fig, axs = plt.subplots(nrows=2, ncols=1, figsize=(8,6), sharex=True)
+sns.boxplot(y='method_name', x='delay_in_days',
+            hue = 'dpval',
+            data = subdata[subdata.method_name=='Culture'],
+            ax=axs[0],
+            palette = colors_dpvals,
+            #palette = colors_multiples[5:],
+            whis=[25, 75],
+            showfliers=False,
+            )
+sns.boxplot(y='method_name', x='delay_in_days',
+            hue = 'dpval',
+            data = subdata[subdata.method_name=='NAAT remnants'],
+            ax=axs[1],
+            palette = colors_dpvals,
+            #palette = colors_multiples[:5],
+            whis=[25, 75],
+            showfliers=False,
+            )
+axs[0].spines[['right', 'top']].set_visible(False)
+axs[1].spines[['right', 'top']].set_visible(False)
+axs[0].set_xlabel('')
+axs[1].set_xlabel('Delay (in days)')
+axs[0].set_ylabel('Culture')
+axs[1].set_ylabel('NAAT remnants')
+axs[0].tick_params(axis='y',  which='both', left=False, labelleft=False) 
+axs[1].tick_params(axis='y',  which='both', left=False, labelleft=False) 
+axs[0].legend(title='Doxy-PEP uptake', 
+              #bbox_to_anchor=(1.1,1),
+              loc='lower right').remove()
+axs[1].legend(title='Doxy-PEP uptake', #bbox_to_anchor=(1.1,1),
+              loc='lower right')
+plt.tight_layout()
+plt.savefig(plotfolder+'boxplot_2panels_delay_by-method-and-dpval_intensity20.pdf', dpi=300)
+plt.close()    
+    
 
 
 
